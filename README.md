@@ -1,10 +1,14 @@
-# My Markdown File
+# Updated Markdown File
 
-This is a simple Markdown file.
+This is an updated version of the Markdown file.
 
-## Features:
-- Easy to create
-- Easy to edit
-- Uses plain text
+## New Features:
+- More customizable formatting
+- Supports code snippets
+- Easy to use
 
-**Bold text** and *italic text*.
+Here’s a Python code example:
+
+```python
+def hello_world():
+    print("Hello, world!")
