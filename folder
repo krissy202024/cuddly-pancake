@@ -1,27 +1,10 @@
-1. Navigating to Your Repository
-First, go to GitHub and log in to your account.
-Find the repository where you want to add or edit a file. You can do this by searching for the repository name or navigating through your profile or organization.
-2. Adding a New File
-To add a new file to the repository:
-
-Go to the repository’s main page.
-
-Once you're in the repository, click on the Add file button (usually found above the list of files).
-Choose "Create new file":
-
-Click on Create new file from the dropdown.
-Enter the filename:
-
 In the "Name your file…" field, type the name of the file you want to create. You can specify subdirectories by adding them to the file name (e.g., folder/subfolder/newfile.md).
 Add content:
-
 Below the filename input, there’s a large text box where you can enter the content of the file. This is where you can write or paste the contents of your file.
 Commit changes:
-
 Scroll down to the "Commit new file" section.
 You’ll need to provide a commit message. GitHub suggests a default message (e.g., "Create [filename]"), but you can customize it.
 You can also add an optional description if desired.
 Choose whether to commit directly to the main branch or create a new branch for the changes (this is helpful if you're collaborating and want to make a pull request).
 Click "Commit new file":
-
 Once you're ready, click the green Commit new file button.
