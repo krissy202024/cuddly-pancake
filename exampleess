@@ -1,0 +1,20 @@
+struct Person {
+    name: String,
+    age: u32,
+}
+
+impl Person {
+    // Method to display the person's info
+    fn display_info(&self) {
+        println!("Name: {}, Age: {}", self.name, self.age);
+    }
+}
+
+fn main() {
+    let person = Person {
+        name: String::from("Alice"),
+        age: 30,
+    };
+
+    person.display_info(); // Calling the method on person
+}
